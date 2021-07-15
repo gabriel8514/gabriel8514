@@ -1,8 +1,8 @@
 # Hello! 👋
 ## Welcome to my profile! 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel8514&show_icons=true&theme=highcontrast"/> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel8514&layout=compact&theme=highcontrast">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriel8514&show_icons=true&theme=highcontrast"/> 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel8514&layout=compact&theme=highcontrast">
 </div> 
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="37"/></a>
