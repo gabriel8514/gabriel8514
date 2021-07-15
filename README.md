@@ -1,7 +1,7 @@
 # Hello! 👋
 ## Welcome to my profile! 
 <div>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriel8514&show_icons=true&theme=highcontrast"/> 
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabriel8514&show_icons=true&theme=highcontrast"/> 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel8514&layout=compact&theme=highcontrast">
 </div> 
  
