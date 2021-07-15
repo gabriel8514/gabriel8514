@@ -1,5 +1,5 @@
 ## Olá! Bem vindo ao meu perfil! Como você está? 👋
-![Commits](https://github-readme-stats.vercel.app/api?username=gabriel8514)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel8514&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel8514&layout=compact&theme=highcontrast)
 
 #### Meu nome é Gabriel. Eu sou do Brasil  🟩🟨🟦
 
