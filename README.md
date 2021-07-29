@@ -5,7 +5,7 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel8514&layout=compact&theme=highcontrast">
 </div> 
  
-
+<div style="display: inline_block"><br>
  <img align="center" height="30" width="30" src="https://img.icons8.com/material/452/java-coffee-cup-logo.png">
     <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png">
     <img align="center" height="30" width="30" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-thumbnail.png">
@@ -14,7 +14,7 @@
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+</div>
 
 - ✅ Dev Java Fullstack - Generation Brasil (attending). 
 - 💻 Developing projects and putting into practice everything I learn.
